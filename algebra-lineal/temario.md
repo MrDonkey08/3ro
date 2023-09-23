@@ -18,13 +18,10 @@ type: Note
 
 En este temario: $a, b, c, d, k\in\Bbb R$, y son constantes y $n, m, i, j \in \Bbb{Z}^{+}$ 
 
-![Sistemas de ecuaciones](../../3ro/algebra-líneal/1-sistemas-de-ecuaciones.md)
+[Sistemas de ecuaciones](1-sistemas-de-ecuaciones.md#Sistemas%20de%20ecuaciones)
 
-[[3ro]]
+[Matrices](2-Matrices.md#Matrices)
 
+[Determinantes](3-Determinantes.md#Determinantes)
 
-![2. Matrices](../../3ro/Álgebra--Líneal/2.-Matrices.md#Matrices)
-
-![3. Determinantes](../../3ro/Álgebra--Líneal/3.-Determinantes.md#Determinantes)
-
-![Regla de Cramer](../../3ro/Álgebra--Líneal/4.-Regla-de-cramer.md#Regla-de-Cramer)
+[Regla de Cramer](4-regla-de-cramer.md#Regla%20de%20Cramer)
