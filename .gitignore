@@ -2,6 +2,7 @@
 *.obsidian*
 *.trash
 borrador-portada.md
+templater
 
 # Office Docs
 *.doc 

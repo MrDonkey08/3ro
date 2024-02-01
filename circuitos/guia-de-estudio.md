@@ -31,6 +31,8 @@ En la actualidad, las **resistencias** vienen con un **código de colores** para
 |       5        |    1     |    2     |    3     |   4    |     5      |             -              |
 |       6        |    1     |    2     |    3     |   4    |     5      |             6              |
 
+<br>
+
 | Franjas    | Dígitos |     Escala     | Tolerancia | Coeficiente de temperatura |
 |:---------- |:-------:|:--------------:|:----------:|:--------------------------:|
 | Negro      |    0    |       x1       |     -      |         250 ppm/K          |
@@ -66,6 +68,7 @@ Donde:
 ## Valor teórico y experimental
 
 En la construcción de circuitos electrónicos nos encontramos con dos tipos de valores:
+
 - **Valor teórico o ideal**: Respecto a los _componentes del circuito_, son aquellos _valores_ que vienen en su diagrama. Los **valores calculados**, (resistencia, amperaje, voltaje, etc.) también son **valores teóricos**.
 - **Valor real o experimental**: Son aquellos _valores_ que se encuentran al construir el circuito. Estos _valores_ se encuentran al _medir_ las _magnitudes_ de los _componentes_ y las _magnitudes_ del circuito con herramientas tal como el _amperímetro_, el _voltímetro_, el _ohmímetro_ o el _multímetro_.
 
@@ -79,7 +82,7 @@ $$\%\text{error} = \frac{|\text{Valor teórico} - \text{Valor experimental}|}{\t
 <!-- <div style="page-break-after: always;"></div>
 
 
-# Referencias
+## Referencias
 
 - https://www.youtube.com/watch?v=ZakHnvGVxLk
 - http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/restmp.html

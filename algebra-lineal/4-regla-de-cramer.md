@@ -5,7 +5,7 @@ author: Alan Yahir Juárez Rubio
 tags: algebra, lineal, cramer, determinantes, sistema, ecuaciones, matriz 
 
 creation date: 22-04-2023
-last modification date: 25-04-2023
+last modification date: 01-10-2023
 
 type: Note
 ---
@@ -66,9 +66,9 @@ a_{n1} & k_{n}  &   a_{n3} & \cdots & a_{nn}\\
 \
 |D_{x_{3}} |= \begin{vmatrix}
 a_{11} & a_{12} & k_{1}  & a_{14} & \cdots & a_{1n}\\
-a_{21} & a_{22} & k_{2}  & a_{14} & \cdots & a_{2n}\\
+a_{21} & a_{22} & k_{2}  & a_{24} & \cdots & a_{2n}\\
 \vdots & \vdots & \vdots & \vdots & \ddots & \vdots\\ 
-a_{n1} & a_{n2} & k_{n}  & \cdots & \cdots & a_{nn}\\
+a_{n1} & a_{n2} & k_{n}  & a_{n4} & \cdots & a_{nn}\\
 \end{vmatrix},\; \cdots\;
 \
 |D_{x_{n}}| = \begin{vmatrix}

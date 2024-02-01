@@ -1,4 +1,4 @@
-|# Guía de Estudio POO C++
+# Guía de Estudio POO C++
 
 ## Glosario
 
@@ -51,7 +51,7 @@
 - **Orden en que se ejecutan los _destructores_ en una _relación jerarquica_:** Desde abajo hacia arriba, es decir, parte de la clase derivada, y sube de clase en clase hasta llegar a la clase base.
 
 ---
-"#ifndef" y "#define" para la creación de un _mecanismo de inclusión de **archivos de encabezado**_ de manera segura y _evitar la inclusión múltiple de los mismos en un **programa**_.
+`#ifndef` y `#define` para la creación de un _mecanismo de inclusión de **archivos de encabezado**_ de manera segura y _evitar la inclusión múltiple de los mismos en un **programa**_.
 
 ```cpp 
 

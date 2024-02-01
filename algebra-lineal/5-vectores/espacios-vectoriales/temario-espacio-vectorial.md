@@ -6,6 +6,6 @@
 
 ![Proyección de un ortogonal](3-proyección-de-un-ortogonal.md#Proyección%20de%20un%20ortogonal)
 
-![4-bases-ortogonales-y-ortonormales](4-bases-ortogonales-y-ortonormales.md)
+![Bases Ortogonales y Ortonormales](4-bases-ortogonales-y-ortonormales.md#Bases%20Ortogonales%20y%20Ortonormales)
 
-![5-producto-cruz](5-producto-cruz.md)
+![Producto cruz](5-producto-cruz.md#Producto%20cruz)
